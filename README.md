@@ -1,2 +1,1 @@
-# Byjus-s-Future-school
-for my projects
+# c9-STUD-TEACHER
